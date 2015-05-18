@@ -1,5 +1,5 @@
 {
-    "name": "prabeengiri/fullscreen-jquery-plugin",
+    "name": "xspade/fullscreen-jquery-plugin",
     "description": "Makes HTML elements fullscreen by changing height and width without recreating the element again.",
     "require": {
         "components/jquery": ">1.9"
